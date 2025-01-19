@@ -1,0 +1,12 @@
+{
+    "name": "simple-node-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js app deployed on AWS using Terraform",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }  
